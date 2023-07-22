@@ -70,39 +70,6 @@ int print_bigS(va_list l, flags_t *f);
 /* print_address */
 int print_address(va_list l, flags_t *f);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* print_percent */
 int print_percent(va_list l, flags_t *f);
 
