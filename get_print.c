@@ -2,15 +2,6 @@
 
 /**
  * get_print - selects the right printing function
- *
- *
- *
- *
- *
- *
- *
- *
- *
  * depending on the conversion specifier passed to _printf
  * @s: character that holds the conversion specifier
  * Description: the function loops through the structs array
